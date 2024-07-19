@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\Serendipity.exe.config
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\Serendipity.exe
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\Serendipity.pdb
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\CapaPresentacion.exe
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\obj\Debug\Serendipity.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\obj\Debug\Serendipity.MenuPrincipal.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\obj\Debug\Serendipity.Properties.Resources.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\obj\Debug\Serendipity.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\obj\Debug\Serendipity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\obj\Debug\Serendip.E5585C13.Up2Date
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\obj\Debug\Serendipity.exe
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\obj\Debug\Serendipity.pdb
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Desktop\Serendipity.SistVentas\Serendipity\bin\Debug\CircularProgressBar.xml
