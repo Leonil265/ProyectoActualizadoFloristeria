@@ -1,0 +1,47 @@
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Empleado.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Admin\Desktop\Serendipity.SistVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.CompraProveedor.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.Empleado.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.Proveedor.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.VentaCliente.resources
+C:\Users\chile\OneDrive\Escritorio\Interfaz Proyecto Floristería\proyectoo-main\proyectoo-main\CapaPresentacion\obj\Debug\CapaPresentacion.PerfilEmpleado.resources
